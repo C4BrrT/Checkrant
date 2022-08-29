@@ -37,7 +37,7 @@ Checkrant é um website usado para a avaliação de restaurantes baseados em ava
 ## Como esse projeto é útil?
 Ele ajuda as pessoas que não possuem uma referência sobre determinado restaurante, a exemplo de um novo restaurante que desejam experimentar porém não encontram informações a seu respeito.
 ## Por que escolhemos esse projeto?
-Porque imaginamos que seria algo possível de se desenvolver e que se torne algo de utilidade pública.
+Porque imaginamos que seria algo possível de se desenvolver e que se tornaria uma aplicação de utilidade pública.
 ## Ferramentas que estamos utilizando:
 Backend:
 
